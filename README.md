@@ -23,4 +23,7 @@
 
 If your CPU supports AVX / AVX2 / AVX-512 instruction set, you can enable it in project settings. This should result in more performant code, optimized for your CPU. Currently SSE2 instructions are selected in project settings.
 
+# Building
+**Build in Visual Studio 2019/2022 with configuration "Your Region - x64"**
+
 ***🚀 If you like this tool consider giving a star so that i get motivated and write some tools***
